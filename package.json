@@ -1,0 +1,44 @@
+{
+  "name": "Botom",
+  "version": "15.1.0",
+  "description": "Botom",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "@distube/deezer": "^1.0.0",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.5.2",
+    "@distube/yt-dlp": "^1.1.3",
+    "@distube/ytsr": "^2.0.0",
+    "@distube/ytdl-core": "^4.13.3",
+    "@top-gg/sdk": "^3.1.3",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.14.1",
+    "distube": "^4.1.1",
+    "husky": "^9.0.11",
+    "express": "^4.18.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "isomorphic-unfetch": "^4.0.2",
+    "libsodium-wrappers": "^0.7.13",
+    "mongoose": "^8.1.3",
+    "opusscript": "^0.1.1",
+    "node-opus": "^0.3.3",
+    "npm": "^10.2.5",
+    "sapphire": "^0.0.3",
+    "si": "^2.0.0",
+    "systeminformation": "^5.21.22",
+    "topgg-autoposter": "^2.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nixsaro",
+  "license": "ISC",
+  "engines": {
+    "node": "17.x"
+  }
+}
